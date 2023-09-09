@@ -2,6 +2,6 @@
 
 Master mengerjakan No 1
 
-user 1 mengerjakan No 1
+user 2 mengerjakan No 2
 
-User 2 mengerjakan plan B dari no 2
+User 3 mengerjakan plan B dari no 1
