@@ -9,6 +9,8 @@ str_val = str_val.replace("e","a")
 print(str_val)
 print("Fitur baruu")
 
+print("Fitur baruu")
+
 # Nomor 1b
 word = input("Masukkan kata (lowercase): ")
 word = word.replace("o", "a")
